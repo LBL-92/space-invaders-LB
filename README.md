@@ -4,8 +4,10 @@ Juego de esquivar obstáculos para dos jugadores hecho con Pygame, ampliado con 
 
 ## Gameplay
 
-<!-- Arrastra aquí gameplay.mp4 al editar el README en GitHub: se sube y se incrusta automáticamente -->
-<video src="gameplay.mp4" controls width="640"></video>
+
+
+https://github.com/user-attachments/assets/76cbab13-004f-45c5-b956-b8bd9a2848e4
+
 
 ## Cómo ejecutarlo
 
